@@ -1,5 +1,27 @@
 # ArgoCD MCP Server
 
+<div align="center">
+
+# Argocd Mcp Server
+
+[![GitHub stars](https://img.shields.io/github/stars/LokiMCPUniverse/argocd-mcp-server?style=social)](https://github.com/LokiMCPUniverse/argocd-mcp-server/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LokiMCPUniverse/argocd-mcp-server?style=social)](https://github.com/LokiMCPUniverse/argocd-mcp-server/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/LokiMCPUniverse/argocd-mcp-server?style=social)](https://github.com/LokiMCPUniverse/argocd-mcp-server/watchers)
+
+[![License](https://img.shields.io/github/license/LokiMCPUniverse/argocd-mcp-server?style=for-the-badge)](https://github.com/LokiMCPUniverse/argocd-mcp-server/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/LokiMCPUniverse/argocd-mcp-server?style=for-the-badge)](https://github.com/LokiMCPUniverse/argocd-mcp-server/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/LokiMCPUniverse/argocd-mcp-server?style=for-the-badge)](https://github.com/LokiMCPUniverse/argocd-mcp-server/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/LokiMCPUniverse/argocd-mcp-server?style=for-the-badge)](https://github.com/LokiMCPUniverse/argocd-mcp-server/commits)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol-DC143C?style=for-the-badge)](https://modelcontextprotocol.io)
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/LokiMCPUniverse/argocd-mcp-server?style=flat-square)](https://github.com/LokiMCPUniverse/argocd-mcp-server/pulse)
+[![Code Size](https://img.shields.io/github/languages/code-size/LokiMCPUniverse/argocd-mcp-server?style=flat-square)](https://github.com/LokiMCPUniverse/argocd-mcp-server)
+[![Contributors](https://img.shields.io/github/contributors/LokiMCPUniverse/argocd-mcp-server?style=flat-square)](https://github.com/LokiMCPUniverse/argocd-mcp-server/graphs/contributors)
+
+</div>
+
 A Model Context Protocol (MCP) server for integrating ArgoCD GitOps continuous delivery tool with GenAI applications, enabling intelligent Kubernetes deployment management.
 
 ## Features
